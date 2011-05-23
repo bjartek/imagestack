@@ -1,0 +1,14 @@
+A small javascript experient. 
+For all images in a div
+ - place randomly
+ - rotate some
+ - stack one atop of another.
+
+When clicking an image or using 0-9 in keyboard
+ - animate image to front and reorder z-index for other images
+
+
+Far from perfect, Need to do some "when all images are loaded trick" to get the random placement correct.
+
+Images and some of the idea from:
+ - http://demos.usejquery.com/03_z-index_gallery/
